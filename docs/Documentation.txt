@@ -1,0 +1,10 @@
+1. Intall Node JS, Git and VsCode editor
+2. Go to the link https://create-react-app.dev/docs/adding-typescript/
+3. Make project directory and open terminal inside of this editor
+4. Execute npx create-react-app my-app --template typescript but replace "my-app" by project name
+5. Once created project directory, execute npm run start
+6. Install react router: npm i react-router-dom
+7. Install react bootstrap: npm i react-bootstrap bootstrap (Documentation: https://react-bootstrap.netlify.app/)
+8. Code
+9. Icons: https://www.flaticon.com/
+10. Publish
